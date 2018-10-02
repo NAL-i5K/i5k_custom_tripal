@@ -1,0 +1,9 @@
+name = i5k Customize Tripal
+description = Customize Tripal modules for i5k
+package = Custom
+version = 7.x-1.0
+core = 7.x
+project = tripal
+
+dependencies[] = tripal
+dependencies[] = tripal_chado_datasets
